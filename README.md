@@ -1,2 +1,3 @@
-# Mind-mapping
-#Summarize the article when I saw the video
+# python-Mind-mapping
+#Summarize the python basic grammar  when I saw the book
+#just incluled some easy grammar，for novice reference
