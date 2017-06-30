@@ -1,3 +1,4 @@
-# python-Mind-mapping
-#Summarize the python basic grammar  when I saw the book
-#just incluled some easy grammar，for novice reference
+# python相关脚本以及整理过的资料
+-----------------------------
+1.python.png  是通过查看视频做笔记总结出来的知识点，只包含基本的语法以及概念，供新手一起交流学习
+
